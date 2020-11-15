@@ -1,0 +1,11 @@
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\bin\Debug\Dice.xml
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.vbprojResolveAssemblyReference.cache
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.Form1.resources
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.Resources.resources
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.vbproj.GenerateResource.Cache
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.xml
+C:\Users\Brandon Welch\Desktop\Important College Documents\Intro To Programming\Dice\Dice\obj\Debug\Dice.pdb
